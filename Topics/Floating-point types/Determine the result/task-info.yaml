@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 2.1
+  - text: 2.7
+  - text: 3.0
+  - text: 1.1
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3454#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 18 Apr 2025 21:09:21 UTC"
+record: -1
+selected_options:
+  - 1
+local_check: false
